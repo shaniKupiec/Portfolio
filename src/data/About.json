@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Come up with original ideas by thinking outside the box. Thrives in a dynamic environment.",
+    "imgUrl":"https://res.cloudinary.com/trellox/image/upload/v1672930906/portfolio/creative_p5akqj.svg",
+    "title": "Creative"
+  },
+  {
+    "description": "Creates a great user experience. An understanding of the UX and UI. Ability to perform px perfect work.",
+    "imgUrl":"https://res.cloudinary.com/trellox/image/upload/v1672930906/portfolio/design_xoli9u.svg",
+    "title": "Design"
+  },
+  {
+    "description": "An experienced Full Stack Developer who uses the latest web technologies to build progressive web applications.",
+    "imgUrl":"https://res.cloudinary.com/trellox/image/upload/v1672930906/portfolio/coding_futzaa.svg",
+    "title": "Full Stack"
+  },
+  {
+    "description": "Analyzing the problem, developing solutions, implementing them, and evaluating their success.",
+    "imgUrl":"https://res.cloudinary.com/trellox/image/upload/v1672930906/portfolio/problem-solving_wcn8hz.svg",
+    "title": "Problem Solving"
+  }
+]

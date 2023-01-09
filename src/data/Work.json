@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Trellox",
+    "tags": ["Vue", "Node"],
+    "description": "Trellox is an App inspired by Trello. Allows the user to create a board for project management, business, design, education, marketing, and more",
+    "codeLink": "https://github.com/shaniKupiec/Trellox--Frontend",
+    "projectLink": "https://trellox-production.up.railway.app/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785931/github%20-%20readme/trellox_jogefx.jpg",
+    "date": "Mar - 2022",
+    "techs": "Vue.js, Vuex, Axios, Chart.js, Socket.io, SCSS, Mongodb, Express, Cors, Bcrypt, REST API"
+  },
+  {
+    "title": "Cryptbits",
+    "tags": ["React"],
+    "description": "With Cryptbits, you can transfer crypto coins. Additionally, you can view how the value of different crypto coins has changed over time",
+    "codeLink": "https://github.com/shaniKupiec/Cryptbits-React",
+    "projectLink": "https://shanikupiec.github.io/Cryptbits-React/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1672668897/github%20-%20readme/Cryptobits2_mrkblq.png",
+    "date": "Jan - 2023",
+    "techs": "React, React Router Dom, Redux & Redux Thunk, Axios, Chart.js, SASS, Local Storage"
+  },
+  {
+    "title": "Cryptonites",
+    "tags": ["Angular", "Node"],
+    "description": "An app that allows transfer of crypto coins to users. Using Node.js, Angular, and TypeScript",
+    "codeLink": "https://github.com/shaniKupiec/Cryptonites-Frontend",
+    "projectLink": "https://cryptonites.onrender.com/#/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/crypto_hhv0sa.jpg",
+    "date": "Aug - 2022",
+    "techs": "Angular Typescript, SCSS, Ngx Charts"
+  },
+  {
+    "title": "Google App",
+    "tags": ["Vue"],
+    "description": "App that combines 2 of google apps- google notes and gmail",
+    "codeLink": "https://github.com/shaniKupiec/Google-App",
+    "projectLink": "https://shanikupiec.github.io/Google-App/#/note",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/google_am4zd4.jpg",
+    "date": "Mar - 2022",
+    "techs": "Vue.js, Local storage"
+  },
+  {
+    "title": "Meme Generator",
+    "tags": ["Vanilla Js"],
+    "description": "An image maker that lets you add custom resizable text, images, and much more",
+    "codeLink": "https://github.com/shaniKupiec/Meme-Generator",
+    "projectLink": "https://shanikupiec.github.io/Meme-Generator/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/memes_jm1mpv.jpg",
+    "date": "Feb - 2022",
+    "techs": "Javascript, Css, HTML, Local storage"
+  },
+  {
+    "title": "Shani's Books",
+    "tags": ["Vue"],
+    "description": "Colorful bookshop that allows the user to watch the book details. More features: filtering, adding new books to the store using external api",
+    "codeLink": "https://github.com/shaniKupiec/Shani-s-Books",
+    "projectLink": "https://shanikupiec.github.io/Shani-s-Books/#/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/books_xleeu0.jpg",
+    "date": "Feb - 2022",
+    "techs": "Vue.js, Local storage"
+  },
+  {
+    "title": "Cool Names",
+    "tags": ["React", "Node"],
+    "description": "Allows getting data(probability, count and gender) about name",
+    "codeLink": "https://github.com/shaniKupiec/Name-App-Frontend",
+    "projectLink": "https://name-app.onrender.com/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785930/github%20-%20readme/names_a5mjzd.jpg",
+    "date": "June - 2022",
+    "techs": "React Typescript, React hooks, SCSS, Axios, Chart.js, HTML"
+  },
+  {
+    "title": "Minesweeper",
+    "tags": ["Vanilla Js"],
+    "description": "A single-player puzzle the goal is to clear a rectangular board containing hidden \"mines\" or bombs without detonating any of them",
+    "codeLink": "https://github.com/shaniKupiec/Minesweeper/",
+    "projectLink": "https://shanikupiec.github.io/Minesweeper/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785930/github%20-%20readme/mines_bhywuh.jpg",
+    "date": "Jan - 2022",
+    "techs": "Javascript, Css, HTML, Local storage"
+  },
+  {
+    "title": "Pac Man",
+    "tags": ["Vanilla Js"],
+    "description": "The player controls a character through an enclosed maze, trying to collect all coins without the ghosts(shaped like '@') killing it",
+    "codeLink": "https://github.com/shaniKupiec/pac-man",
+    "projectLink": "https://shanikupiec.github.io/pac-man/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785930/github%20-%20readme/pacman_yxiise.jpg",
+    "date": "Jan - 2022",
+    "techs": "Javascript, Css, HTML"
+  },
+  {
+    "title": "Eat the ball",
+    "tags": ["Vanilla Js"],
+    "description": "The player controls a character through a board. To win the game the player needs to eat all the balls in the board",
+    "codeLink": "https://github.com/shaniKupiec/eat-the-ball",
+    "projectLink": "https://shanikupiec.github.io/eat-the-ball/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/balls_iuxfcu.jpg",
+    "date": "Jan - 2022",
+    "techs": "Javascript, Css, HTML"
+  },
+  {
+    "title": "Book Shop",
+    "tags": ["Vanilla Js"],
+    "description": "Book Shop that allows the user to read, create, edit and delete books",
+    "codeLink": "https://github.com/shaniKupiec/book-shop",
+    "projectLink": "https://shanikupiec.github.io/book-shop/",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785929/github%20-%20readme/book-shop_um2mwg.jpg",
+    "date": "Feb - 2022",
+    "techs": "Javascript, Css, HTML, Local storage"
+  }
+]

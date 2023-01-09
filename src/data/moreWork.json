@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Zone Todo",
+    "tags": ["React"],
+    "description": "Zone Todo is a mobile design app that allows you to manage your daily tasks",
+    "codeLink": "https://github.com/shaniKupiec/Zone-Todo",
+    "projectLink": "",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785930/github%20-%20readme/task_luba5j.jpg",
+    "date": "June - 2022",
+    "techs": "React.js, React hooks, Redux, Graphql, AWS Services: AppSync, Cognito, Amplify, DynamoDB, SCSS"
+  },
+  {
+    "title": "Toy App",
+    "tags": ["Vue", "Node"],
+    "description": "Advanced Toy Store with Google Maps and Socket.IO",
+    "codeLink": "https://github.com/shaniKupiec/Mister-Toy-Frontend",
+    "projectLink": "",
+    "imgUrl": "https://res.cloudinary.com/trellox/image/upload/v1657785930/github%20-%20readme/toys_yjgfjt.jpg",
+    "date": "Mar - 2022",
+    "techs": "Vue.js, Vuex, Axios, Element-plus, Socket.io, SCSS, Mongodb, Express, Cors, Bcrypt, REST API"
+  }
+]

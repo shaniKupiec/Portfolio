@@ -1,0 +1,22 @@
+[
+  {
+    "year": "2022",
+    "works": [
+      {
+        "company": "Newledge",
+        "name": "Full Stack Developer",
+        "desc": "Fully developed end-to-end application. Developed hybrid frontend that connects to standalone backend and to backend in AWS. Implemented design and ensured performance and responsiveness of the application."
+      }
+    ]
+  },
+  {
+    "year": "2019-2021",
+    "works": [
+      {
+        "company": "IDF",
+        "name": "Instructor of Tactical Application",
+        "desc": "Conducting training courses for officers. Manages the Gantt chart for the Human Resources courses. Certificate of excellence from commanding human resources officer."
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/js_nchmp2.png",
+    "name": "JavaScript"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910079/portfolio/ts_r3mdc5.png",
+    "name": "TypeScript"
+  },
+
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/react_antai6.png",
+    "name": "React JS"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672907711/portfolio/vue_uaqrxr.png",
+    "name": "Vue"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/angular_etczgm.png",
+    "name": "Angular JS"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/html5_ahkz7h.png",
+    "name": "HTML5"
+  },
+  { 
+    "icon":"https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/css3_dket3c.png",
+    "name": "CSS3"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/sass_fgo7zr.png",
+    "name": "SASS"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/redux_aefzvq.png",
+    "name": "Redux"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/figma_giwsi3.png",
+    "name": "Figma "
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/chart-js_vdeg2r.png",
+    "name": "Chart JS "
+  },
+
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/mongodb_n2mosu.png",
+    "name": "MongoDB"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/npm_wprxq3.webp",
+    "name": "NPM"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/json_dqephr.png",
+    "name": "JSON"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/api_ej5pjk.png",
+    "name": "API"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/node-js_xnbzks.png",
+    "name": "Node JS"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/postamn_wj5edv.png",
+    "name": "Postman"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910077/portfolio/git_kwi4sh.png",
+    "name": "Git"
+  },
+  {
+    "icon": "https://res.cloudinary.com/trellox/image/upload/v1672910078/portfolio/sql_rga5p7.png",
+    "name": "SQL"
+  }
+]
